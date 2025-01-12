@@ -1,0 +1,82 @@
+* {
+  font-family: Arial, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 15px;
+  text-decoration: underline;
+  text-underline-offset: 5.2px;
+  font-size: 28px;
+}
+
+.header {
+  margin-bottom: 20px;
+  color: #000;
+}
+
+#blogPost {
+  padding: 21px;
+  border: 1px solid black;
+}
+
+#blogPost p {
+  font-size: 22px;
+  line-height: 1.2;
+}
+
+.readMore {
+  text-decoration: none;
+  border-bottom: 1px solid #000;
+  display: inline-block;
+  margin-top: 18px;
+  color: black;
+  font-size: 20px;
+}
+
+#images {
+  margin-top: 20px;
+}
+
+#images img {
+  margin-top: 12px;
+  width: 500px;
+}
+
+.beagleImage {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ccc;
+}
+
+.moreImages {
+  display: block;
+  margin-top: 12px;
+  text-underline-position: under;
+  color: #000000;
+  font-size: 20px;
+}
+
+#trivia {
+  margin-top: 30px;
+}
+.list {
+  padding: 0px 20px;
+}
+
+#trivia h1 {
+  margin-bottom: 30px;
+}
+
+#trivia li {
+  margin-bottom: 12px;
+  font-size: 20px;
+}
